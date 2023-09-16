@@ -1,0 +1,66 @@
+.tree__title {
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #333333;
+}
+.tree__card {
+  width: 407px;
+  height: 681px;
+  left: 70px;
+  top: 1129px;
+  background: #FFFFFF;
+  -webkit-box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+.tree__title0 {
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+  color: #333333;
+}
+.tree__titles {
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+  color: #333333;
+  margin: 30px 0 44px;
+}
+.tree__number {
+  font-weight: 600;
+  font-size: 40px;
+  text-align: center;
+  color: #333333;
+}
+.tree__btn {
+  background: #547147;
+  border-radius: 40px;
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+  padding: 12px 80px;
+  border: none;
+  margin-top: 24px;
+  margin-bottom: 21px;
+  margin-left: 77px;
+}
+.tree__text {
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center;
+  color: #888888;
+}
+.tree__block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-column-gap: 40px;
+     -moz-column-gap: 40px;
+          column-gap: 40px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 60px;
+}

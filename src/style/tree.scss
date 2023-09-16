@@ -1,0 +1,89 @@
+.tree{
+  &__title{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+  }
+  &__card{
+    width: 407px;
+    height: 681px;
+    left: 70px;
+    top: 1129px;
+    background: #FFFFFF;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+  }
+  &__titles{
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    color: #333333;
+    margin-top: 30px;
+  }
+  &__title0{
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    color: #333333;
+    margin-top: 20px;
+  }
+  &__number{
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    color: #333333;
+    margin-top: 44px;
+  }
+  &__number0{
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    color: #333333;
+    margin-top: 20px;
+  }
+  &__number1{
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    color: #333333;
+    margin-top: 10px;
+  }
+  &__btn{
+    background: #547147;
+    border-radius: 40px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 12px 80px;
+    border: none;
+    margin-top: 24px;
+    margin-bottom: 21px;
+    margin-left: 77px;
+    cursor: pointer;
+  }
+  &__text{
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    color: #888888;
+  }
+  &__block{
+    display: flex;
+    column-gap: 40px;
+    justify-content: center;
+    margin-top: 60px;
+  }
+  &__block1{
+    display: flex;
+    column-gap: 40px;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  &__block0{
+    display: flex;
+    column-gap: 40px;
+    margin-top: 40px;
+  }
+}

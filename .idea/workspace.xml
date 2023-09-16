@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="306bf625-cfa0-47ec-a038-219165741b0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LGzO6haFwRA8avujabImmv1hoW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Dary dushoy\src\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="306bf625-cfa0-47ec-a038-219165741b0c" name="Default Changelist" comment="" />
+      <created>1675512171418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675512171418</updated>
+      <workItem from="1675512172777" duration="94000" />
+      <workItem from="1675512495794" duration="669000" />
+      <workItem from="1675515472840" duration="536000" />
+      <workItem from="1675516415642" duration="598000" />
+      <workItem from="1675527029388" duration="6000" />
+      <workItem from="1675528913686" duration="734000" />
+      <workItem from="1675529699138" duration="3485000" />
+      <workItem from="1675533385654" duration="3000" />
+      <workItem from="1675568737622" duration="1178000" />
+      <workItem from="1675570742750" duration="4884000" />
+      <workItem from="1675605195222" duration="5349000" />
+      <workItem from="1675655000137" duration="35000" />
+      <workItem from="1676464794020" duration="27000" />
+      <workItem from="1677599680384" duration="618000" />
+      <workItem from="1678464785955" duration="27000" />
+      <workItem from="1678465181163" duration="11000" />
+      <workItem from="1678465738750" duration="9000" />
+      <workItem from="1678465794005" duration="23000" />
+      <workItem from="1678465918921" duration="9000" />
+      <workItem from="1678524918712" duration="32000" />
+      <workItem from="1693508598140" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1675512516597">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1675512516597" />
+  </component>
+</project>

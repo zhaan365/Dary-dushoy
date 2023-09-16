@@ -1,0 +1,44 @@
+.header{
+  &__ul{
+    display: flex;
+    column-gap: 40px;
+  }
+  &__li{
+    font-weight: 600;
+    font-size: 16px;
+    color: #333333;
+    cursor: pointer;
+  }
+  &__tel{
+    font-weight: 600;
+    font-size: 16px;
+    color: #333333;
+  }
+  &__svg{
+    display: flex;
+    column-gap: 20px;
+  }
+  &__end{
+    display: flex;
+    column-gap: 30px;
+    align-items: center;
+  }
+  &__middle{
+    display: flex;
+    column-gap: 230px;
+    align-items: center;
+  }
+  &__start{
+    display: flex;
+    column-gap: 307px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 16px;
+  }
+  &__linia{
+    width: 1300px;
+    height: 0;
+    border: 1px solid #547147;
+    margin-top: 16px;
+  }
+}
